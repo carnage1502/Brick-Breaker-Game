@@ -1,0 +1,15 @@
+This is Brick Breaker Game.
+Made By:-
+	Team Titan's members
+		Carnage (SHIVAM SHARMA)
+		Toxin    (SHIVAM RAKSHIT SINGH)
+		Divyanshu Tiwari
+This Game is made by using languages (HTML,CSS and JAVASCRIPT).
+
+Instructions:-
+	To play this game open "index.html" file and click on Play
+
+To see credits click on Credits in "index.html".
+
+Enjoy
+Peace Out.
