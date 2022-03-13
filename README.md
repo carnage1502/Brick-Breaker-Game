@@ -1,10 +1,7 @@
 # Brick-Breaker-Game
                                       INTRODUCTION
 
-THIS IS BRICK BREAKER GAME . IT IS  PROJECT 1 GIVEN  BY DEVSNEST.
-WE ARE TEAM TITANS WHICH WERE DIVIDED IN TWO SUB TEAMS AND WE TEAM TOXIN
-WE CONSIST OF THREE MEMBER CARNAGE (SHIVAM SHARMA), TOXIN(SHIVAM RAKSHIT SINGH),
-DIVYANSHU TIWARI. 
+THIS IS BRICK BREAKER GAME.
 This Brick Breaker Game was made using HTML, CSS and Java script.
 
 To play this Game open this file in file in your browser.
